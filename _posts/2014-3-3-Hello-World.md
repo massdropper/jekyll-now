@@ -4,6 +4,6 @@ title: Time for the MTA to Evolve
 ---
 
 # Problem
-![Top 5 Stations](/images/Top 5 1.png)
+![Top 5 Stations]({{massdropper.github.io}}/images/Top 5 1.png)
 
 # Analysis
